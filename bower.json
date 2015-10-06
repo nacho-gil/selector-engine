@@ -1,0 +1,16 @@
+{
+    "name": "selector-engine",
+    "version": "0.0.1",
+    "description": "Selector Engine",
+    "author": "Ignacio Gil",
+    "main": "selector.js",
+    "keywords": [
+        "selector",
+        "engine",
+        "javascript"
+    ],
+    "ignore": [
+        "node_modules",
+        "test"
+    ]
+}
